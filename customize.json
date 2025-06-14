@@ -1,0 +1,26 @@
+{
+  "greeting": "Hiii",
+  "name": "Prathyuu",
+  "greetingText": "I really like your name btw!",
+  "wishText": "Wishing u a day as graceful and grounded as u r. May every little moment today bring peace to your heart and smile 😄 to your face. Stay Soft, Stay strong my world is better with you in it ;)",
+  "imagePath": "img/Prathyusha.jpeg",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click here, if you want to watch it again.",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3"
+  
+}
+
